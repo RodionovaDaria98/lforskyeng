@@ -1,0 +1,70 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	margin-top: 20px;
+}
+
+
+.punkt_menu {
+	display:flex;
+	margin-left:10px;
+	margin-right:10px
+}
+
+.welcome { 
+	background-color:black;	
+	position: relative;
+	margin-top: 25px;
+}
+
+body {
+	background-image: url("fon.png");
+}
+
+.menu_header {
+	display:flex;
+}
+
+.about_text {
+	max-width: 800px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 25%;
+}
+
+.top {
+	background-color:black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.about_1 {
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+
+
+.heading {
+	font-size: 30px;
+	font-family: Roboto;
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+}
+
+.wrapper_1 {
+	display:flex;
+	margin-top: 30px;
+	justify-content:center;
+}
+
+.heading_about {
+	margin-left: 20px;
+	max-width: 500px;
+	color:white;
+	font-size: 15px;
+	font-family: Roboto;
+}
